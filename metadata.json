@@ -1,0 +1,6 @@
+{
+  "name": "MR. FLUENCY SaaS",
+  "description": "Commercial multi-tenant education and training management SaaS platform for English academies, language centers, and educators by MR. FLUENCY / أستاذ علي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
